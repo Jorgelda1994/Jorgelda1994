@@ -1,6 +1,7 @@
 # Jorge Luis Duran
-## estudiante de negocios digitales, me apasion saber y conocer de negocios en linea 
-**mecanico Industrial** 
+## estudiante de negocios digitales, me apasiona saber, conocer de negocios en linea y nuevas tecnologias
+# perfil
+*mecanico Industrial* 
 * Año de egreso 2019
 - fabricacion de maquinas industriales.
 - mantenimiento de maquinas industriles.
